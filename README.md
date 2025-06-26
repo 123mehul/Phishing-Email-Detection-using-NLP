@@ -15,6 +15,8 @@ A web-based application that analyzes emails to detect phishing attempts using N
 
 ## 📸 Screenshots
 
+![Dashboard](1.png)
+![Dashboard](2.png)
 
 ---
 
